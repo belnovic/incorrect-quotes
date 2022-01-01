@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Incorrect Quote Generator</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <h1>bel's Incorrect Quote Generator</h1>
+    <div class="numberInputs">
+      <!-- User selects number of inputs here -->
+      <p>
+        Number of characters:
+        <input
+          id="numberSelect"
+          type="number"
+          min="1"
+          max="5"
+          onchange="greyBoxes()"
+        />
+        <button class="plusMinus" onclick="increment()">+</button>
+        <button class="plusMinus" onclick="decrement()">-</button>
+      </p>
+    </div>
+    <div class="charDivider">
+      <!-- Boxes containing character names display here -->
+      <input
+        type="text"
+        class="charInputs"
+        id="character1"
+        value="Person A"
+        disabled="true"
+        onfocus="this.value=''"
+      />
+      <div class="spacer"></div>
+      <input
+        type="text"
+        class="charInputs"
+        id="character2"
+        value="Person B"
+        disabled="true"
+        onfocus="this.value=''"
+      />
+      <div class="spacer"></div>
+      <input
+        type="text"
+        class="charInputs"
+        id="character3"
+        value="Person C"
+        disabled="true"
+        onfocus="this.value=''"
+      />
+      <div class="spacer"></div>
+      <input
+        type="text"
+        class="charInputs"
+        id="character4"
+        value="Person D"
+        disabled="true"
+        onfocus="this.value=''"
+      />
+      <div class="spacer"></div>
+      <input
+        type="text"
+        class="charInputs"
+        id="character5"
+        value="Person E"
+        disabled="true"
+        onfocus="this.value=''"
+      />
+      <div class="spacer"></div>
+    </div>
+    <button id="promptButton" onclick="newQuote()">Generate Quote</button>
+    <div class="quote">
+      <!-- Incorrect quote + source will display here -->
+      <p>
+        <b>Your Quote:<br /><br /></b> <label id="quoteDisplay"></label>
+        <br />
+        <br />
+        <label id="sourceDisplay"></label>
+      </p>
+    </div>
+    <p id="analytics">
+      <!-- Quote numbers will display here -->
+    </p>
+    <div id="socials">
+      <!-- My social media links will display here -->
+      <p>
+        Follow me on: <br />
+        <a href="https://twitter.com/belnovic" target="_blank">Twitter</a>
+        <a href="https://instagram.com/belnovic" target="_blank">Instagram</a>
+      </p>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
