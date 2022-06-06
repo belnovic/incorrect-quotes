@@ -56,15 +56,13 @@ input:disabled {
   font-size: 16px;
 }
 
-.charDivider {
+.charContainer {
   margin: auto;
-  width: 75%;
-}
-
-.spacer {
-  width: 5px;
-  height: 36px;
-  display: inline-block;
+  width: 65%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
 }
 
 .quote {
@@ -86,7 +84,7 @@ input:disabled {
 }
 
 #promptButton {
-  margin-top: 3%;
+  margin-top: 20px;
   height: 32px;
   width: 180px;
   font-size: 14px;
