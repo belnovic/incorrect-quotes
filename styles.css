@@ -55,7 +55,7 @@ input:disabled {
 
 .charDivider {
   margin: auto;
-  width: 55%;
+  width: 75%;
 }
 
 .spacer {
@@ -78,6 +78,7 @@ input:disabled {
 
 #numberSelect {
   height: 25px;
+  min-width: 30px;
   font-size: 14px;
 }
 
@@ -91,3 +92,10 @@ input:disabled {
 #sourceDisplay {
   opacity: 0.75;
 }
+
+/*----------------- MOBILE STYLING -----------------*/
+/* @media only screen and (max-width: 900px) {
+  .numberInputs p {
+    font-size: 2em;
+  }
+} */

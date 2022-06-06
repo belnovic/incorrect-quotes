@@ -3,6 +3,7 @@
   <head>
     <title>Incorrect Quote Generator</title>
     <link rel="stylesheet" href="./styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
     <h1>bel's Incorrect Quote Generator</h1>
@@ -10,13 +11,7 @@
       <!-- User selects number of inputs here -->
       <p>
         Number of characters:
-        <input
-          id="numberSelect"
-          type="number"
-          min="1"
-          max="5"
-          onchange="greyBoxes()"
-        />
+        <input id="numberSelect" type="number" min="1" max="5" onchange="greyBoxes()" />
         <button class="plusMinus" onclick="increment()">+</button>
         <button class="plusMinus" onclick="decrement()">-</button>
       </p>
