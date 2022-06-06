@@ -4,6 +4,7 @@
     <title>Incorrect Quote Generator</title>
     <link rel="stylesheet" href="./styles.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   </head>
   <body>
     <h1>bel's Incorrect Quote Generator</h1>
@@ -12,8 +13,8 @@
       <p>
         Number of characters:
         <input id="numberSelect" type="number" min="1" max="5" onchange="greyBoxes()" />
-        <button id="plusBtn" class="plusMinus" onclick="increment()">+</button>
-        <button id="minusBtn" class="plusMinus" onclick="decrement()">-</button>
+        <button id="plusBtn" class="plusMinus">+</button>
+        <button id="minusBtn" class="plusMinus">-</button>
       </p>
     </div>
     <div class="charContainer">

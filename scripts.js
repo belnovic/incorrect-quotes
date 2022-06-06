@@ -305,14 +305,17 @@ function newQuote() {
       break;
   }
 
-  const plusBtn = document.getElementById("plusBtn");
-  const minusBtn = document.getElementById("minusBtn");
-
-  plusBtn.addEventListener("touchstart", increment);
-  minusBtn.addEventListener("click", decrement);
-
   document.getElementById("sourceDisplay").innerHTML = quoteSource; //displays the source of the quote
   document.getElementById("quoteDisplay").innerHTML = finalQuote; //displays the final prompt
 }
+
+const plusBtn = document.getElementById("plusBtn");
+const minusBtn = document.getElementById("minusBtn");
+
+$(document).ready(function () {
+  console.log("ready");
+  plusBtn.addEventListener("click", increment);
+  minusBtn.addEventListener("click", decrement);
+});
 
 document.getElementById("analytics").innerHTML = getNumPrompts(); //displays numerical data
