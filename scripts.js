@@ -305,6 +305,12 @@ function newQuote() {
       break;
   }
 
+  const plusBtn = document.getElementById("plusBtn");
+  const minusBtn = document.getElementById("minusBtn");
+
+  plusBtn.addEventListener("click", increment());
+  minusBtn.addEventListener("click", decrement());
+
   document.getElementById("sourceDisplay").innerHTML = quoteSource; //displays the source of the quote
   document.getElementById("quoteDisplay").innerHTML = finalQuote; //displays the final prompt
 }
