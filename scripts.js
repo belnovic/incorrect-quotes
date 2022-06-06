@@ -22,13 +22,14 @@ var quotes1 = [
   "<b>{A}</b>: We've done some shit to bees, y'all. #Brian David Gilbert",
   "<b>{A}</b>: I do wanna talk about the implications of Dry Bones and Dry Bowser from the Mario games, whose naming conventions confuse and frighten me. <br><b>{A}</b>: When I die, will I become Dry {A}? Is a living Bowser 'Wet Bowser'? <br><b>{A}</b>: ...Why do Piranha Plant have bone in it? #Brian David Gilbert",
   "<b>{A}</b>: I probably have brain damage, but what if...I didn't? #Michael Reeves",
-  "<b>{A}</b>: What is my perfect crime? I break into Tiffany's at midnight, do I go for the vault? No, I go for the chandelier, it's priceless. As I’m taking it down, a woman catches me. She tells me to stop. It's her father's business. She's Tiffany. I say no. We make love all night. In the morning, the cops come and I escape in one of their uniforms. I tell her to meet me in Mexico, but I go to Canada. I don't trust her. Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police. This is where the story gets interesting. I tell Tiffany to meet me in Paris by the Trocadero. She's been waiting for me all these years. She's never taken another lover. I don't care. I don't show up. I go to Berlin. That's where I stashed the chandelier. #The Office",
+  "<b>{A}</b>: What is my perfect crime? I break into Tiffany's at midnight, do I go for the vault? No, I go for the chandelier, it's priceless. As I'm taking it down, a woman catches me. She tells me to stop. It's her father's business. She's Tiffany. I say no. We make love all night. In the morning, the cops come and I escape in one of their uniforms. I tell her to meet me in Mexico, but I go to Canada. I don't trust her. Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police. This is where the story gets interesting. I tell Tiffany to meet me in Paris by the Trocadero. She's been waiting for me all these years. She's never taken another lover. I don't care. I don't show up. I go to Berlin. That's where I stashed the chandelier. #The Office",
   "<b>{A}</b>: Kids, sometimes things just happen. And sometimes...God is a vicious, two-faced prick. #Starkid: Trail to Oregon",
   "<b>{A}</b>: When I babysat for a summer, two summers actually. And that family aaaalways had Gushers and they were the kids' Gushers but I made them mine because of my actions. #Griffin McElroy",
   "<b>Lawyer</b>: Please confirm to your knowledge that you are not a fully robotic being, were born an organic creature, and do in fact possess what many cultures would call a soul? <br><b>{A}</b>: What? To my knowledge? Do a lot of people not know if they're robots? <br><i>*many hours later*</i> <br><b>{A}, staring into the distance</b>: ...What if I was a robot and I didn't know it? #Loki",
   "<b>{A}</b>: Close your eyes and pretend it's all a bad dream. That's how I get by. #Pirates of the Caribbean",
   "<b>{A}</b>: Oh, and for your information, I don't have an ego. <br><b>{A}</b>: My Facebook photo is a landscape. #Community",
   "<b>{A}</b>: Wait, how did you guys hear about me? I've literally met, like, one other person and I murdered them. #Call Me Kevin",
+  "<b>{A}</b>: ALEXA! Has anyone ever died at Disneyworld?? <br><b>Alexa</b>: I don't understand. <br><b>{A}</b>: What's not to understand???? #Brittany Broski",
 ];
 
 var quotes2 = [
@@ -81,6 +82,10 @@ var quotes2 = [
   "<b>{A}</b>: How did my clothes even catch fire? I bought them because the tag said 'inflammable'! <br><b>{B}</b>: Inflammable means flammable... <br><b>{A}</b>: What?! That doesn't even make sense! #The Simpsons",
   "<b>{A}</b>: {B}, are you alright, dude?! <br><b>{B}</b>: Yeah, I think so. <br><b>{A}</b>: WELL YOU DON'T DESERVE TO BE!! #Teenage Mutant Ninja Turtles",
   "<b>{A}</b>: I think it's time to get my life in order. <br><b>{B}, narrating</b>: But they did not get their life in order. In fact, they got drunk last night and fought a raccoon. #Meme",
+  "<b>{A}</b>: Hey, {B}. <br><b>{B}</b>: Oh, hi {A}. I knew I smelled failure. #Glee",
+  "<b>{A}, to {B}</b>: I will go to the animal shelter and get you a kitty cat. I will let you fall in love with that kitty cat. And then, in some dark, cold night, I will steal away into your home...and punch you in the face. #Glee",
+  "<b>{A}</b>: I've been handling the stress just fine! <br><b>{B}</b>: You had, like, three bagels in half an hour. <br><b>{A}</b>: ...They were a mistake. #Schitt's Creek",
+  "<b>{A}</b>: You can trust me. <br><b>{B}</b>: Oh, can I? Because the last time I left you in charge of something- <br><b>{A}</b>: UGH, if this is about those stupid Tamagotchis... <br><b>{B}</b>: Actually, it is! <br><b>{A}</b>: You left me with 6 of them, {B}! Taking care of that many is like a full time job. <br><b>{B}</b>: I left you with 6 ADULT Tamagotchis in perfect health, and by the time I came home, they were all dead! You have to, like, actively murder them in order for that to happen! #Schitt's Creek",
 ];
 
 var quotes3 = [
@@ -139,6 +144,7 @@ var quotes4 = [
   "<b>{A}</b>: I demand you to hug me. <br><b>{B}</b>: <br><b>{C}</b>: That's how they ask for hugs. <br><b>{D}</b>: You'll get used to it. #Unknown",
   "<b>{A}, to {B} and {C}</b>: I know how to settle this. <br><b>{D}</b>: No kickboxing! #The Simpsons",
   "<b>{A}</b>: We're kind of missing something, guys. <br><b>{B}</b>: Cohesion? <br><b>{B}</b>: Teamwork? <br><b>{B}</b>: A general sense of what we're doing? <br><b>{C}</b>: And {D} is not here. <br><b>{B}</b>: Oh, and that, yeah. #Unknown",
+  "<b>{A}, {B}, & {C}</b>: The plan is kinda changing, so we're just gonna...take you with us. <br><b>{D}</b>: Am I being kidnapped? <br><b>{A}</b>: No! <br><b>{D}</b>: ...Can I leave...? <br><b>{A}</b>: No. #Dimension 20",
   "<b>{A}</b>: So, are they your friend or... <br><b>{B}</b>: They're like {C}, but if {C} was ordered to be around you. <br><b>{A}</b>: Oh, so {D}. <br><b>{B}</b>: Precisely! #RWBY",
   "<b>{A}</b>: Dying sucks! How do you living beings cope with mortality? <br><b>{B}</b>: Violent outbursts. <br><b>{C}</b>: General sluttiness. <br><b>{D}</b>: Thanks to denial, I'm immortal. #Futurama",
 ];
