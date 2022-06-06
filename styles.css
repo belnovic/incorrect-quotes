@@ -45,6 +45,9 @@ input:disabled {
   height: 25px;
   width: 35px;
   font-size: 14px;
+  text-align: center;
+  z-index: 99;
+  cursor: pointer;
 }
 
 .charInputs {
@@ -92,10 +95,3 @@ input:disabled {
 #sourceDisplay {
   opacity: 0.75;
 }
-
-/*----------------- MOBILE STYLING -----------------*/
-/* @media only screen and (max-width: 900px) {
-  .numberInputs p {
-    font-size: 2em;
-  }
-} */
