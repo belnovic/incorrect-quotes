@@ -31,7 +31,7 @@ One Person Quotes:
   "<b>{A}</b>: Oh, and for your information, I don't have an ego. <br><b>{A}</b>: My Facebook photo is a landscape. #Community",
   "<b>{A}</b>: Wait, how did you guys hear about me? I've literally met, like, one other person and I murdered them. #Call Me Kevin",
   "<b>{A}</b>: ALEXA! Has anyone ever died at Disneyworld?? <br><b>Alexa</b>: I don't understand. <br><b>{A}</b>: What's not to understand???? #Brittany Broski",
-]
+  "<i>*reading the lyrics to Ice, Ice, Baby*</i> <br><b>{A}</b>: The first lyrics to the song are: 'Yo, VIP, let's kick it,' which I think is a nice way to start a song. It's saying like, 'You're a very important person. Let's begin.' <br><b>{A}</b>: Then the next lyrics is 'Alright, stop.' <br><b>{A}</b>: Which is strange because we <i>literally</i> just started. #Adam Scott",
 
 Two Person Quotes:
 [

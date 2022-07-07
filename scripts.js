@@ -30,6 +30,7 @@ var quotes1 = [
   "<b>{A}</b>: Oh, and for your information, I don't have an ego. <br><b>{A}</b>: My Facebook photo is a landscape. #Community",
   "<b>{A}</b>: Wait, how did you guys hear about me? I've literally met, like, one other person and I murdered them. #Call Me Kevin",
   "<b>{A}</b>: ALEXA! Has anyone ever died at Disneyworld?? <br><b>Alexa</b>: I don't understand. <br><b>{A}</b>: What's not to understand???? #Brittany Broski",
+  "<i>*reading the lyrics to Ice, Ice, Baby*</i> <br><b>{A}</b>: The first lyrics to the song are: 'Yo, VIP, let's kick it,' which I think is a nice way to start a song. It's saying like, 'You're a very important person. Let's begin.' <br><b>{A}</b>: Then the next lyrics is 'Alright, stop.' <br><b>{A}</b>: Which is strange because we <i>literally</i> just started. #Adam Scott",
 ];
 
 var quotes2 = [
@@ -117,7 +118,7 @@ var quotes3 = [
   "<b>{A}</b>: I'm going. If you two can manage not to kill each other while I'm gone. <br><b>{B}</b>: Oh, please. We're not children. <br><b>{C}</b>: <br><b>{B}</b>: <br><b>{C}</b>: Eat shit and die. <br><b>{B}</b>: Yes, fuck you. #Castlevania",
   "<b>{A}</b>: We can't move this thing. {B} broke it. <br><b>{B}</b>: I did not! <br><b>{C}</b>: You kind of did. <br><b>{B}</b>: I do not break things! <br>{A}, to <b>{C}</b>: So we agree they broke it. <br><b>{C}</b>: Oh, yes. #Castlevania",
   "<b>{A}</b>: Hey, I got a call about two creepy guys hanging out at the playground. <br><b>{B}</b>: Really? I haven't seen anything. But I'll keep my eyes open. <br><b>{C}</b>: We've just been here, hanging out in the bushes. <br><b>{A}</b>: <br><b>{C}</b>: <br><b>{B}</b>: <br><b>{C}</b>: Oh, boy. #Psych",
-  "<b>{A}</b>: {C}, don't take this the wrond way, but you're insane. <br><b>{B}</b>: That may well be, but the fact is it wouldn't kill us to meet some new people. <br><b>{C}</b>: For the record, it could kill us to meet new people. They could be murderers or the carriers of unusual pathogens. And I'm not insane, my mother had me tested. #Big Bang Theory",
+  "<b>{A}</b>: {C}, don't take this the wrong way, but you're insane. <br><b>{B}</b>: That may well be, but the fact is it wouldn't kill us to meet some new people. <br><b>{C}</b>: For the record, it could kill us to meet new people. They could be murderers or the carriers of unusual pathogens. And I'm not insane, my mother had me tested. #Big Bang Theory",
   "<b>{A}</b>: Alright, which one of us is gonna check outside? <br><b>{B}</b>: Not it! <br><b>{C}</b>: Not it! <br><b>{A}</b>: ...Neither of you are as dumb as you lead on to be. #Final Fantasy 7 Machinabridged",
   "<b>{A}</b>: Been eating a lot of bread. <br><b>{B}</b>: WE GET IT, {A}. {C} BROUGHT YOU BREAD. QUIT RUBBING IT IN. #The Try Guys",
   "<b>{A}</b>: {C} said all people look for is confidence! Where did I go wrong? <br><b>{B}</b>: 'My sweet chinchilla' probably wasn't the best start. #RWBY",
